@@ -1,0 +1,74 @@
+[2023-04-25T04:05:00.181+0000] {processor.py:153} INFO - Started process (PID=34) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:00.202+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:05:00.227+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:00.227+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:00.879+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:02.275+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.274+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:thang
+[2023-04-25T04:05:02.329+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.329+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:thang
+[2023-04-25T04:05:02.375+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.374+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:thang
+[2023-04-25T04:05:02.382+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.378+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:05:02.464+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.463+0000] {dag.py:2726} INFO - Creating ORM DAG for thang
+[2023-04-25T04:05:02.542+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:02.542+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:05:02.659+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 2.624 seconds
+[2023-04-25T04:05:33.255+0000] {processor.py:153} INFO - Started process (PID=93) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:33.260+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:05:33.262+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:33.261+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:33.307+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:05:33.364+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:33.364+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:05:33.404+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:05:33.404+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:05:33.451+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.216 seconds
+[2023-04-25T04:06:03.693+0000] {processor.py:153} INFO - Started process (PID=146) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:03.698+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:06:03.708+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:03.708+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:03.755+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:03.855+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:03.852+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:06:03.906+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:03.906+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:06:03.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.245 seconds
+[2023-04-25T04:06:34.175+0000] {processor.py:153} INFO - Started process (PID=199) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:34.179+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:06:34.183+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:34.182+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:34.230+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:06:34.287+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:34.287+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:06:34.347+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:06:34.346+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:06:34.390+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.232 seconds
+[2023-04-25T04:07:04.481+0000] {processor.py:153} INFO - Started process (PID=252) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:04.488+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:07:04.493+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:04.492+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:04.535+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:04.580+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:04.580+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:07:04.635+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:04.635+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:07:04.677+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.214 seconds
+[2023-04-25T04:07:35.034+0000] {processor.py:153} INFO - Started process (PID=304) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:35.046+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:07:35.049+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:35.049+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:35.150+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:07:35.315+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:35.315+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:07:35.497+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:07:35.497+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:07:35.646+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.619 seconds
+[2023-04-25T04:08:05.983+0000] {processor.py:153} INFO - Started process (PID=357) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:05.989+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:08:05.991+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:05.990+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:06.020+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:06.071+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:06.070+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:08:06.132+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:06.131+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:08:06.178+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.215 seconds
+[2023-04-25T04:08:36.711+0000] {processor.py:153} INFO - Started process (PID=408) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:36.725+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:08:36.727+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:36.727+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:36.909+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:08:37.101+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:37.100+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:08:37.269+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:08:37.268+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:08:37.374+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.780 seconds
+[2023-04-25T04:09:07.708+0000] {processor.py:153} INFO - Started process (PID=461) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:07.712+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:09:07.716+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:07.715+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:07.782+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:07.829+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:07.829+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:09:07.879+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:07.879+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:09:07.909+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.207 seconds
+[2023-04-25T04:09:38.162+0000] {processor.py:153} INFO - Started process (PID=513) to work on /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:38.164+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/simple_dags.py for tasks to queue
+[2023-04-25T04:09:38.173+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:38.173+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:38.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['thang']) retrieved from /opt/airflow/dags/simple_dags.py
+[2023-04-25T04:09:38.279+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:38.279+0000] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-25T04:09:38.340+0000] {logging_mixin.py:137} INFO - [2023-04-25T04:09:38.340+0000] {dag.py:3456} INFO - Setting next_dagrun for thang to 2023-04-25T00:00:00+00:00, run_after=2023-04-25T00:00:00+00:00
+[2023-04-25T04:09:38.424+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/simple_dags.py took 0.267 seconds
